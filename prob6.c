@@ -1,3 +1,27 @@
+/*  Algorithm
+
+  1) start
+  2) show list of operations
+  3) get choice from user 
+  4) if choice is additon
+       * get 2 numbers from user and add 
+       * print the result
+       * again show list of operations
+  5) if choice is substraction
+       * get 2 numbers from user and substract
+       * print the result
+       * again show list of operations
+  6)if choice is multiplication
+       *get 2 numbers and multiply them
+       * print the result
+       * again show list of operations
+  7)if choice is division
+       *get 2 numbers and divide
+       * print the result
+       * again show list of operations
+  8)if user choose exit, stop     
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

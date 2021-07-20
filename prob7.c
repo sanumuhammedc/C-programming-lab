@@ -1,5 +1,20 @@
+/* 
+    Algorithm
+      
+  1) start
+  2) asign sum = 0
+  3) while number !=0
+       *get a number from user
+       *number % 10
+       *add reminder got in above step to sum
+       * number = number/10
+   4) print sum
+   5)ask user wether continue or not
+   6)if user ask to continue, repeat above steps     
+   7)else stop
+   */ 
+   
 #include <stdio.h>
-
 int main() {
     int num, sum=0, p, r, flask = 0;
 

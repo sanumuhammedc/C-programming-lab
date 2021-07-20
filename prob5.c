@@ -1,3 +1,17 @@
+/*  Algorithm
+
+1) Enter the customer number.
+2) Enter energy units consumed.
+3) if the input unit is <=100, then amount =  3.50*unit
+4) if the input unit is <=200, then amount =  (unit - 100)*4 + 100*3.5
+5) If the input unit is <=500, then amount =  (unit - 200)*5 + 100*3.5 +  100*4;
+6) If the input unit is above 500 then, amount = (unit - 500)*8 + 100*3.5 + 100*4 + 300*5
+7) tax = amount * 0.12
+8) total amount = amount + tax + fixed charge
+9) print total charge with tax and 40rs fixed amount.
+10) stop
+*/
+
 #include<stdio.h>
 #include<math.h>
 int main(){

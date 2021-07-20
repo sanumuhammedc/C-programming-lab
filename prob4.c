@@ -1,3 +1,17 @@
+1) start
+2) input choice to calculate area of triangle or rectangle
+3) if choice is for triangle,
+     *input 3 sides of triangle
+     *find area = sqrt(s*(s-a)(s-b)(s-c)), where s = (a+b+c)/2
+     *print area 
+4) if choice is rectangle,
+    *input length and breadth
+    *find area = length * breadth
+    *print area
+5) if any other choice show error message
+6) stop
+*/
+
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
