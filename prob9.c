@@ -1,3 +1,14 @@
+/*
+ 1) start
+ 2) get number of rows to be printed
+ 3) for i=0 and i < no of row
+        *for j = 0 and j<=i
+        * if j equal to 0 or i equal to zero number=1
+        * else number = num * (i - j + 1)/j
+        * print number
+ 4) stop
+ */
+
 #include<stdio.h>
 int main(){
 	int i, j, limit, num, space;
