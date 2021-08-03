@@ -1,3 +1,4 @@
+/*
 1) start
 2) input choice to calculate area of triangle or rectangle
 3) if choice is for triangle,
@@ -11,7 +12,7 @@
 5) if any other choice show error message
 6) stop
 */
-
+//area calculating programme
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>

@@ -22,6 +22,7 @@
   8)if user choose exit, stop     
 */
 
+//simple menu driven calculator 
 #include <stdio.h>
 #include <stdlib.h>
 

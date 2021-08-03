@@ -9,6 +9,8 @@
  4) repeat upto printing last prime number
  5) stop		  	  
    */
+
+  //programme to print prime numbers upto entered limit
 #include<stdio.h>
 int main(){
 	int i, j, n;

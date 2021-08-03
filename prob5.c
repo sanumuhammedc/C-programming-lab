@@ -11,7 +11,7 @@
 9) print total charge with tax and 40rs fixed amount.
 10) stop
 */
-
+//electricity bill calculator
 #include<stdio.h>
 #include<math.h>
 int main(){

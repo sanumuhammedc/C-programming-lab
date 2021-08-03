@@ -9,6 +9,7 @@
  4) stop
  */
 
+//programme to print pascals triangle upto given rows
 #include<stdio.h>
 int main(){
 	int i, j, limit, num, space;

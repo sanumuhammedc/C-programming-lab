@@ -2,7 +2,7 @@
     Algorithm
       
   1) start
-  2) asign sum = 0
+  2) assign sum = 0
   3) while number !=0
        *get a number from user
        *number % 10
@@ -14,6 +14,7 @@
    7)else stop
    */ 
    
+  //programme to find sum of digits in an intiger 
 #include <stdio.h>
 int main() {
     int num, sum=0, p, r, flask = 0;
