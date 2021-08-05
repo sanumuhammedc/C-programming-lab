@@ -13,7 +13,7 @@
   6)if column of matrix2==row of matrix1
       6.1)multiply matrix 2 and 1
       6.2)print the result
-   8)stop   
+   7)stop   
 
 */
 
@@ -88,7 +88,7 @@ int main(){
        }   
     }
     if(arow!=brow || acolumn!=bcolumn){
-        printf("\nMatrices cannot be added\n");
+        printf("\nMatrices cannot be added\n\n");
     }
 
     //multiplying matrix and printing result if possible
@@ -110,6 +110,9 @@ int main(){
          printf("\n\n");
        }   
     }
+    else{
+        printf("\n\nCan't multiply matrix 1 and 2\n\n");
+    }
 
     if(bcolumn == arow){
         for(i=0;i<brow;i++){
@@ -121,13 +124,16 @@ int main(){
                 value = 0;
             }
         }
-        printf("\n\nMatrix 2 x matrix 2:\n");
+        printf("\n\nMatrix 2 x matrix 1:\n");
         for(i=0;i<brow;i++){
             for(j=0;j<acolumn;j++){
                 printf("%d\t",product[i][j]);
             }
          printf("\n\n");
        }   
+    }
+    else{
+        printf("\n\nCan't multiply matrix 1 and 2");
     }
     return 0;
 }
