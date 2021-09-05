@@ -1,5 +1,8 @@
 /*
-   Algorithm
+program to print all prime numbers in the range given as input*/
+
+/*
+ Algorithm
  1) start
  2) get range from user
  3) for i=2; i < input

@@ -1,6 +1,8 @@
 /* 
-    Algorithm
-      
+    program to do calculate the sum of digits of a counting number*/
+
+  /* 
+   Algorithm
   1) start
   2) assign sum = 0
   3) while number !=0

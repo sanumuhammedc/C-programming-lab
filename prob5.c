@@ -1,4 +1,7 @@
-/*  Algorithm
+/*  
+program to generate the bill for the electricity charges of a customer*/
+
+/*Algorithm
 
 1) Enter the customer number.
 2) Enter energy units consumed.

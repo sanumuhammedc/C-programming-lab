@@ -1,5 +1,7 @@
-/*  Algorithm
+/*  
+Calculator program to do the basic arithmetic operations on real numbers*/
 
+/*Algorithm
   1) start
   2) show list of operations
   3) get choice from user 

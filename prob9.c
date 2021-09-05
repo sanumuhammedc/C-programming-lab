@@ -1,4 +1,7 @@
 /*
+program to print pascal's triangle*/
+
+/*Algorithm
  1) start
  2) get number of rows to be printed
  3) for i=0 and i < no of row

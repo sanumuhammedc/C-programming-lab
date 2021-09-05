@@ -133,7 +133,7 @@ int main(){
        }   
     }
     else{
-        printf("\n\nCan't multiply matrix 1 and 2");
+        printf("\n\nCan't multiply matrix 2 and 1");
     }
     return 0;
 }

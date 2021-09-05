@@ -1,4 +1,9 @@
 /*
+program to calculate and print the area of the following figures:
+1. A rectangle – given the length and breadth
+2. A triangle – given the three sides*/
+
+/*Algorithm
 1) start
 2) input choice to calculate area of triangle or rectangle
 3) if choice is for triangle,
